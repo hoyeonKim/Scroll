@@ -21,6 +21,7 @@
 		00B016F9187C1C3600D6F349 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00B016DB187C1C3600D6F349 /* UIKit.framework */; };
 		00B01701187C1C3600D6F349 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00B016FF187C1C3600D6F349 /* InfoPlist.strings */; };
 		00B01703187C1C3600D6F349 /* p249Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00B01702187C1C3600D6F349 /* p249Tests.m */; };
+		00B0170D187C1E5900D6F349 /* c10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 00B0170C187C1E5900D6F349 /* c10.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00B016FE187C1C3600D6F349 /* p249Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "p249Tests-Info.plist"; sourceTree = "<group>"; };
 		00B01700187C1C3600D6F349 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00B01702187C1C3600D6F349 /* p249Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = p249Tests.m; sourceTree = "<group>"; };
+		00B0170C187C1E5900D6F349 /* c10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = c10.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		00B016DD187C1C3600D6F349 /* p249 */ = {
 			isa = PBXGroup;
 			children = (
+				00B0170C187C1E5900D6F349 /* c10.jpg */,
 				00B016E6187C1C3600D6F349 /* AppDelegate.h */,
 				00B016E7187C1C3600D6F349 /* AppDelegate.m */,
 				00B016E9187C1C3600D6F349 /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				00B016F0187C1C3600D6F349 /* Images.xcassets in Resources */,
 				00B016E2187C1C3600D6F349 /* InfoPlist.strings in Resources */,
+				00B0170D187C1E5900D6F349 /* c10.jpg in Resources */,
 				00B016EB187C1C3600D6F349 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
